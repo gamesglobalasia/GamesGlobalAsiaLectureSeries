@@ -75,7 +75,7 @@ export default function App() {
               transition={{ duration: 0.6 }}
               className="text-[11px] uppercase tracking-[0.35em] text-sand-400 font-semibold mb-6"
             >
-              &ndash;2027 &middot;
+              2026 &ndash;2027 &middot;
             </motion.p>
 
             <motion.h1

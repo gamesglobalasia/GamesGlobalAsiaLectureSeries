@@ -88,7 +88,7 @@ export const lectures: Lecture[] = [
       abstract: TBA,
       bio: 'Yichen Rao is Assistant Professor of Cultural Anthropology at Utrecht University and China AI Lead at the Inclusive AI Lab. He combines anthropology, media studies, and STS to examine how digital technologies and capitalist models shape subjectivities in global China. He has published widely on topics of fin-tech, gaming addiction, digital infrastructure, scams, and AI. He has recently been awarded an ERC Starting Grant to examine the global impact of Chinese AI ecosystems and e-commerce platforms and their role in reconfiguring contemporary capitalism. He also serves as a council member of Society of Social Studies of Science (4S) and Sci-Tech Asia research network. ',
       time: TBA,
-      location: 'Online',
+      location: 'Hybrid',
     },
   },
   {
