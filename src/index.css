@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600&family=Inter:wght@200;300;400;500;600;700&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Cormorant Garamond", "Playfair Display", Georgia, serif;
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+
+  /* Poster palette: the deep liubo-board maroon and its warm neutrals */
+  --color-clay-950: #241311;
+  --color-clay-900: #2f1b18;
+  --color-clay-800: #3d2420;
+  --color-clay-700: #4d2e29;
+  --color-clay-600: #5d3a33;
+  --color-clay-500: #6f4840;
+
+  --color-sand-50: #faf5f0;
+  --color-sand-100: #f0e6dd;
+  --color-sand-200: #ddcabd;
+  --color-sand-300: #c6a795;
+  --color-sand-400: #ad8a77;
+  --color-sand-500: #8f6d5c;
+}
+
+html, body {
+  font-family: var(--font-sans);
+  background-color: #4d2e29;
+  color: var(--color-sand-100);
+  scroll-behavior: smooth;
+}
+
+/* Warm scrollbar to match the board */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #2f1b18;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(240, 230, 221, 0.18);
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(240, 230, 221, 0.35);
+}
