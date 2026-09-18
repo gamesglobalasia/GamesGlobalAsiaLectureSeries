@@ -75,7 +75,7 @@ export default function App() {
               transition={{ duration: 0.6 }}
               className="text-[11px] uppercase tracking-[0.35em] text-sand-400 font-semibold mb-6"
             >
-              2026&ndash;2027 &middot; Online
+              &ndash;2027 &middot;
             </motion.p>
 
             <motion.h1
@@ -84,7 +84,7 @@ export default function App() {
               transition={{ duration: 0.7, delay: 0.1 }}
               className="text-4xl sm:text-5xl md:text-6xl font-serif text-sand-50 leading-[1.08] max-w-3xl"
             >
-              Games and Global Asian<br className="hidden sm:block" />{' '}
+              Games and Global Asia<br className="hidden sm:block" />{' '}
               <span className="italic font-medium">Lecture Series</span>
             </motion.h1>
 

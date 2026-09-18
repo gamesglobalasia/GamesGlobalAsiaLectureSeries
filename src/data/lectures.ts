@@ -69,7 +69,7 @@ export const lectures: Lecture[] = [
     detail: {
       title:
         'Sedentary: The (Post)Colonial Absence of Boardgames and Videogames from Indian Historiography',
-      abstract: TBA,
+      abstract: 'In this talk, Dr Souvik Mukherjee will start by addressing the term “sedentary games,” which in colonial parlance referred to board games and implied laziness and idleness. He will then explore how this notion remained embedded in the historical mindset and has since persisted in popular perceptions of videogames as wasteful and perverse. He will look at popular media responses to videogames and also films that perpetuate this thinking.',
       bio: 'Dr Souvik Mukherjee is associate professor in Cultural Studies at the Centre for Studies in Social Sciences Calcutta, India. Souvik’s research looks at videogames as storytelling media through a broad spectrum of topics in Game Studies ranging from postcolonialism, identity and temporality in videogames to videogame cultures in South-East Asia. Souvik is the author of four monographs, Videogames and Storytelling: Reading Games and Playing Books (Palgrave Macmillan 2015), Videogames and Postcolonialism: Empire Plays Back (Springer UK 2017), Videogames in the Indian Subcontinent: Development, Culture(s) and Representations (Bloomsbury India 2022) and Indian Boardgames, Colonial Avatars: Transculturation, Colonialism and Boardgames (De Gruyter 2025). Souvik has been named a Digital Games Research Association (DiGRA) Distinguished Scholar in 2019 and a Higher Education Video Game Alliance (HEVGA) fellow in 2022.',
       time: '9:00am – 10:00am EST · 6:30pm – 7:30pm IST',
       location: 'Online',
@@ -86,7 +86,7 @@ export const lectures: Lecture[] = [
     detail: {
       title: TITLE_TBA,
       abstract: TBA,
-      bio: 'Yichen Rao is Assistant Professor of Cultural Anthropology at Utrecht University and China AI Lead at the Inclusive AI Lab.',
+      bio: 'Yichen Rao is Assistant Professor of Cultural Anthropology at Utrecht University and China AI Lead at the Inclusive AI Lab. He combines anthropology, media studies, and STS to examine how digital technologies and capitalist models shape subjectivities in global China. He has published widely on topics of fin-tech, gaming addiction, digital infrastructure, scams, and AI. He has recently been awarded an ERC Starting Grant to examine the global impact of Chinese AI ecosystems and e-commerce platforms and their role in reconfiguring contemporary capitalism. He also serves as a council member of Society of Social Studies of Science (4S) and Sci-Tech Asia research network. ',
       time: TBA,
       location: 'Online',
     },
