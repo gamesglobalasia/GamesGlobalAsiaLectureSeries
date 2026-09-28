@@ -101,10 +101,14 @@ export const lectures: Lecture[] = [
     photo: meixuPhoto,
     affiliation: 'PhD candidate in Modern Thought and Literature at Stanford University',
     detail: {
-      title: TITLE_TBA,
-      abstract: TBA,
+      title: 'Women at Play: Feminist Reinscriptions of Chinese Game History, 1980s to Post-2010s',
+      abstract: `This article traces women’s participation in Chinese gaming between the early 1980s and the post-2010 era, not as a simple move from absence to presence, but through shifting access, visibility, and value. Building on Western feminist media history that asks, per Laine Nooney, not only “Where are women in game history?” but “Why are they there in the way that they are?,” it reconstructs women’s place in Chinese game history while arguing that frameworks centered on liberal inclusion do not fully capture how gender operates in a postsocialist, state-led media system entangled with patriarchy and consumerism.
+
+    To fill this gap, the article draws on materials such as game magazines, policy documents, online forums, and feminist scholarship, situating game history within Chinese state policy, gender politics, and media infrastructures, to reconstruct four overlapping moments: the arcade–home divide of the early reform era; negotiations over liberal aspiration and “Chineseness” in the late 1990s and first decades of the 2000s; the 2000 to 2010 rise of online games, esports, and beauty marketing; and the 2010 to 2015 platform and mobile boom that drew more women into mobile games, otome/boy love titles, esports, and livestreaming under tightening moral and commercial control.
+
+    Across these periods, women surface as players, industry practitioners, community leaders, esports champions, and market icons, as well as bearers of national morality and targets of monetization. The post-2010 period sees NGO crackdowns, the so-called masculinity crisis, online misogyny, and stricter game censorship unfold alongside mobile and otome blockbusters, mobile esports, and feminist player communities, which expand but also fragment women’s presence. Under these conditions, industry and the state increasingly depoliticize women as consumer-citizens. Women players and creators, however, keep testing how far games can push back against these limits. Taken together, these histories show the value of a feminist reconstruction of Chinese gaming: It makes women visible in an understudied context and reveals how gender operates within a postsocialist, state-led media system.`,
       bio: 'Mayshu (Meixu) Zhan is a PhD candidate in Modern Thought and Literature at Stanford University.',
-      time: TBA,
+      time: '1pm - 2pm EST, 10am - 11am PDT',
       location: 'Online',
       videoUrl: '',
     },
