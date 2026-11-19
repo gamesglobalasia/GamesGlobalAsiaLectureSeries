@@ -122,9 +122,10 @@ export const lectures: Lecture[] = [
     affiliation:
       'Associate Professor in the Department of Linguistic, Literary and Aesthetic Studies at the University of Bergen',
     detail: {
-      title: TITLE_TBA,
-      abstract: TBA,
-      bio: 'Dino Ge Zhang is Associate Professor in the Department of Linguistic, Literary and Aesthetic Studies at the University of Bergen.',
+      title: 'US–China Reactionary Circuits Among Gamer (Counter)publics',
+      abstract:
+        'This talk draws on my ongoing research on the circulation of reactionary politics between China and the rest of the world. The talk will begin with a recently published case study on the controversies surrounding Black Myth: Wukong. Chinese critiques of baizuo (literally the ‘white left’) and Gamergate-descended right-wing gamers converge in rejecting feminism and woke politics (although the manifestations of which in the US and China are radically different). However, the resonance is often based on epistemic (mis)readings on both sides. An analysis of such discourses will unpack the contradictions and inconsistencies in the habitual returns to grand narratives such as politics of (male) grievance/misogyny, civilizationism (the peripheral and center), political realism, chauvinism/nationalism, and so on. The talk seeks to demonstrate the ‘co-constitution’ of reactionary currents in China and the US in the sphere of videogame discourses.',
+      bio: 'Dino Ge Zhang is an Associate Professor in digital culture at the University of Bergen. His research focuses on socio-technics, aesthetics, and affective ecologies of the Sinophone internet. He is the founding editor of the Bureau of Low Theory, a web database dedicated to internet culture and underground theory from China. More of his work can be found at his website: zdi.no',
       time: TBA,
       location: 'Online',
       videoUrl: '',
